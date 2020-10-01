@@ -96,6 +96,7 @@ int main(){
 							break;
 						default:
 							goto admin_menu;
+							cout << "Invalid input\n";
 							break;
 					}
 			
