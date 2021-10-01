@@ -1,3 +1,4 @@
+//functionality for searching book
 #ifndef SEARCH_BOOK_CPP
 #define SEARCH_BOOK_CPP
 #include<fstream>
